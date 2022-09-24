@@ -16,5 +16,13 @@
   "dependencies": {
     "inquirer": "^9.1.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyx-desdev/generate-dot-gitignore.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nyx-desdev/generate-dot-gitignore/issues"
+  },
+  "homepage": "https://github.com/nyx-desdev/generate-dot-gitignore#readme",
   "type": "module"
 }
