@@ -1,0 +1,20 @@
+{
+  "name": "generate-dot-gitignore",
+  "version": "1.0.0",
+  "description": "Create a gitignore file in the root of your project",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "generate-gitignore",
+    "gitignore"
+  ],
+  "author": "Nikhil Arya",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.1.2"
+  },
+  "type": "module"
+}
